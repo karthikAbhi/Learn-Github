@@ -2,7 +2,7 @@
 
 > Completed
 
-  - [x] Codecademy - Learn Git *[Refer](https://github.com/karthikAbhi/Learn-Github/blob/master/Codecademy%20-%20Git%20Tutorial.md)*
+  - [x] Codecademy - Learn Git *[Refer](Codecademy-Git_Tutorial.md)*
 
 > Guides
 
