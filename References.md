@@ -2,7 +2,7 @@
 
 > Completed
 
-  - [x] Codecademy - Learn Git []
+  - [x] Codecademy - Learn Git *[Refer](Codecademy-GitTutorial.md)*
 
 > Guides
 
